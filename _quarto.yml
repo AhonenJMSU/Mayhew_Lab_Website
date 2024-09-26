@@ -1,0 +1,61 @@
+project:
+  type: website
+
+website:
+  description: "This is a description of the website."
+  favicon: img/3.svg
+  site-url: www.google.com
+  repo-url: www.google.com
+  #reader-mode: true
+  search:
+    location: navbar
+    type: overlay
+    show-item-context: true
+  #google-analytics:
+  #cookie-consent:
+  page-footer:
+    border: true
+    left: 
+    - text: "2024 Aubrey DuBois"
+    center: "Made with [Quarto](www.quarto.com)"
+    right:
+    - text: "License"
+      href: license/index.qmd
+    
+  back-to-top-navigation: true
+  bread-crumbs: true
+  image: img/5.svg
+  image-alt: "The logo for the Mayhew Sensory Lab which features blah blah blah."
+  navbar:
+    title: "Mayhew Sensory Lab"
+    logo: img/5.svg
+    left:
+      - text: About
+        href: index.qmd
+      - text: People
+        href: people/index.qmd
+      - text: Research
+        href: research/index.qmd
+      - text: Courses
+        href: courses/index.qmd
+      - text: News
+        href: news/index.qmd
+      - text: Services        
+        href: services/index.qmd
+    right:
+      - text: "{{< iconify fa:instagram >}}"
+        href: www.google.com
+      - text: "{{< iconify fa:facebook-square >}}"
+        href: www.google.com
+      - text: "{{< iconify fa:github >}}"
+        href: www.google.com
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
