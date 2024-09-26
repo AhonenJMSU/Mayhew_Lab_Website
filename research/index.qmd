@@ -1,5 +1,18 @@
 ---
 title: "Research"
+listing:
+  # - id: projects
+  #   contents: "projects/*.qmd"
+  #   fields: [title, subtitle]
+  #   image-placeholder: person-placeholder.png
+  #   image-height: 10em
+  - id: articles
+    categories: true
+    contents: "articles/*.qmd"
+    type: table
+    fields: [title, date]
+    image-placeholder: person-placeholder.png
+    image-height: 10em
 ---
 
 Every food we eat is made up of a specific combination of molecules, organized in a specific way. Our lab is interested in learning how the combination of molecules (composition) and the way they are organized (structure) shapes our sensory perception of the food.
@@ -8,3 +21,6 @@ We apply sensory methodology to study the appearance, smell, flavor, texture, an
 
 If we understand how the chemistry of a food dictates its sensory properties, we can strategically alter formulation or process to produce the desired sensory profile without having to go through multiple rounds of reformulation and sensory testing. We aim to apply this composition-to-sensory modeling approach to promote more nutritious and sustainable eating by improving the sensory properties of nutritious and sustainable foods. Early research projects include studying the relationship between apple volatile composition and flavor and investigating the use of volatile compounds to enhance sweetness as a sugar reduction strategy.
 
+## Journal Articles
+:::{#articles}
+:::

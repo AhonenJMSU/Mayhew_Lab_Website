@@ -1,0 +1,51 @@
+---
+title: "Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice"
+author: 
+  - name: Nomzamo N Dlamini
+    affiliation:
+    orcid:
+    email:
+  - name: Emily J Mayhew
+    affiliation:
+    orcid:
+    email:
+  - name: Alissa A Nolden
+    affiliation:
+    orcid:
+    email:
+date: 2024-07-20
+categories:
+  - conjoint analysis
+  - consumer perception
+  - sustainable packaging
+  - sustainability attitudes
+  - packaging type
+  - packaging claim
+  - product claim
+  - price
+  - orange juice beverage
+---
+
+{{< iconify simple-icons:open-access >}}[Open Access Paper](https://doi.org/10.3390/su16146202)
+
+## Abstract
+
+Understanding the motivation behind consumers’ packaging choices is crucial to providing insights for achieving environmental sustainability outcomes. Here, we examined the influence of product attributes (packaging type, packaging claim, product claim, and price) and consumers factors (e.g., diet type, demographic information) driving orange juice selection. Participants residing in the USA (n = 847) responded to an online survey including: (1) a check-all-that-apply (CATA) to valued beverage characteristics question; (2) a choice-based conjoint task with packaging type, packaging claim, product claim, and price as the attributes; (3) a question tasking respondents to rank packaging material from their perception of the least to most sustainable; and (4) demographic questions. The conjoint analysis revealed that price was the most important attribute, particularly the lowest price. This study revealed that the most ideal orange juice option was packaged in glass, labelled as 100% recyclable, locally produced, and priced at $1.10 per 12 fl. oz. Not only was glass the most preferred packaging type, but it was also incorrectly perceived as the most sustainable. The intention to purchase sustainable packaging was the most important predictor of attribute relative importance (RI) and packaging utilities, followed by effectiveness perception, which only predicted the RI of price. Thus, for consumers to make more sustainable choices, education initiatives need to direct consumers to more sustainable, yet affordable, choices, while considering that purchase intention and effectiveness perception are key attitudinal drivers.
+
+## Citation
+```bibtex
+
+@Article{su16146202,
+AUTHOR = {Dlamini, Nomzamo N. and Mayhew, Emily J. and Nolden, Alissa A.},
+TITLE = {Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice},
+JOURNAL = {Sustainability},
+VOLUME = {16},
+YEAR = {2024},
+NUMBER = {14},
+ARTICLE-NUMBER = {6202},
+URL = {https://www.mdpi.com/2071-1050/16/14/6202},
+ISSN = {2071-1050},
+DOI = {10.3390/su16146202}
+}
+
+```

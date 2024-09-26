@@ -11,7 +11,7 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "This is a Quarto website.\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "Lab news will go here!\n\n\n\n Back to top"
   },
   {
     "objectID": "about/index.html",
@@ -25,7 +25,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Every food we eat is made up of a specific combination of molecules, organized in a specific way. Our lab is interested in learning how the combination of molecules (composition) and the way they are organized (structure) shapes our sensory perception of the food.\nWe apply sensory methodology to study the appearance, smell, flavor, texture, and pleasurability of foods. We also use instrumental methods, including gas-chromatography/mass-spectrometry and texture analysis, to characterize the composition and structure of foods. Finally, we build models that can quantitatively describe the causal link between food composition and sensory properties.\nIf we understand how the chemistry of a food dictates its sensory properties, we can strategically alter formulation or process to produce the desired sensory profile without having to go through multiple rounds of reformulation and sensory testing. We aim to apply this composition-to-sensory modeling approach to promote more nutritious and sustainable eating by improving the sensory properties of nutritious and sustainable foods. Early research projects include studying the relationship between apple volatile composition and flavor and investigating the use of volatile compounds to enhance sweetness as a sugar reduction strategy.\n\n\n\n Back to top"
+    "text": "Every food we eat is made up of a specific combination of molecules, organized in a specific way. Our lab is interested in learning how the combination of molecules (composition) and the way they are organized (structure) shapes our sensory perception of the food.\nWe apply sensory methodology to study the appearance, smell, flavor, texture, and pleasurability of foods. We also use instrumental methods, including gas-chromatography/mass-spectrometry and texture analysis, to characterize the composition and structure of foods. Finally, we build models that can quantitatively describe the causal link between food composition and sensory properties.\nIf we understand how the chemistry of a food dictates its sensory properties, we can strategically alter formulation or process to produce the desired sensory profile without having to go through multiple rounds of reformulation and sensory testing. We aim to apply this composition-to-sensory modeling approach to promote more nutritious and sustainable eating by improving the sensory properties of nutritious and sustainable foods. Early research projects include studying the relationship between apple volatile composition and flavor and investigating the use of volatile compounds to enhance sweetness as a sugar reduction strategy."
   },
   {
     "objectID": "index.html",
@@ -46,7 +46,7 @@
     "href": "license/index.html",
     "title": "License",
     "section": "",
-    "text": "This is a Quarto website.\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "CC BY 4.0 Attribution License\nYou are free to:\nShare — copy and redistribute the material in any medium or format for any purpose, even commercially.\nAdapt — remix, transform, and build upon the material for any purpose, even commercially.\nView full details here: CC BY 4.0 Attribution License\n\n\n\n Back to top"
   },
   {
     "objectID": "people/ura/example.html",
@@ -60,21 +60,21 @@
     "href": "people/gra/mam.html",
     "title": "Mariano Aldana",
     "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
   },
   {
     "objectID": "people/staff/ejm.html",
     "href": "people/staff/ejm.html",
     "title": "Emily Mayhew",
     "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
   },
   {
     "objectID": "people/staff/ejm.html#education",
     "href": "people/staff/ejm.html#education",
     "title": "Emily Mayhew",
-    "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
   },
   {
     "objectID": "people/staff/ejm.html#experience",
@@ -130,14 +130,14 @@
     "href": "people/staff/hrm.html",
     "title": "Hannah Mulheron",
     "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
   },
   {
     "objectID": "people/gra/knp.html",
     "href": "people/gra/knp.html",
     "title": "Kaveri Ponkshe",
     "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
   },
   {
     "objectID": "courses/index.html",
@@ -150,8 +150,8 @@
     "objectID": "people/staff/hrm.html#education",
     "href": "people/staff/hrm.html#education",
     "title": "Hannah Mulheron",
-    "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
   },
   {
     "objectID": "people/staff/hrm.html#experience",
@@ -171,8 +171,8 @@
     "objectID": "people/gra/knp.html#education",
     "href": "people/gra/knp.html#education",
     "title": "Kaveri Ponkshe",
-    "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
   },
   {
     "objectID": "people/gra/knp.html#experience",
@@ -192,8 +192,8 @@
     "objectID": "people/gra/mam.html#education",
     "href": "people/gra/mam.html#education",
     "title": "Mariano Aldana",
-    "section": "",
-    "text": "B.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
+    "section": "Education",
+    "text": "Education\nB.S. Chemistry, College of William & Mary, 2012\nPh.D. Food Science, University of Illinois at Urbana-Champaign, 2017"
   },
   {
     "objectID": "people/gra/mam.html#experience",
@@ -208,5 +208,82 @@
     "title": "Mariano Aldana",
     "section": "Instructional Activities",
     "text": "Instructional Activities\nFSC 310: Sensory Analysis and Consumer Research"
+  },
+  {
+    "objectID": "research/projects/honey.html",
+    "href": "research/projects/honey.html",
+    "title": "Quantifiying the Sweetness of Honey",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "research/articles/2024_dlamini-mayhew-nolden.html",
+    "href": "research/articles/2024_dlamini-mayhew-nolden.html",
+    "title": "Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice",
+    "section": "",
+    "text": "Open Access Paper"
+  },
+  {
+    "objectID": "research/articles/2024_dlamini-mayhew-nolden.html#important-links",
+    "href": "research/articles/2024_dlamini-mayhew-nolden.html#important-links",
+    "title": "Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice",
+    "section": "",
+    "text": "Paper (preprint)\nAppendix (preprint)\nStatistical analysis notebook\nGitHub repository\nExperiment preregistration (research question #2)"
+  },
+  {
+    "objectID": "research/articles/2024_dlamini-mayhew-nolden.html#abstract",
+    "href": "research/articles/2024_dlamini-mayhew-nolden.html#abstract",
+    "title": "Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice",
+    "section": "Abstract",
+    "text": "Abstract\nUnderstanding the motivation behind consumers’ packaging choices is crucial to providing insights for achieving environmental sustainability outcomes. Here, we examined the influence of product attributes (packaging type, packaging claim, product claim, and price) and consumers factors (e.g., diet type, demographic information) driving orange juice selection. Participants residing in the USA (n = 847) responded to an online survey including: (1) a check-all-that-apply (CATA) to valued beverage characteristics question; (2) a choice-based conjoint task with packaging type, packaging claim, product claim, and price as the attributes; (3) a question tasking respondents to rank packaging material from their perception of the least to most sustainable; and (4) demographic questions. The conjoint analysis revealed that price was the most important attribute, particularly the lowest price. This study revealed that the most ideal orange juice option was packaged in glass, labelled as 100% recyclable, locally produced, and priced at $1.10 per 12 fl. oz. Not only was glass the most preferred packaging type, but it was also incorrectly perceived as the most sustainable. The intention to purchase sustainable packaging was the most important predictor of attribute relative importance (RI) and packaging utilities, followed by effectiveness perception, which only predicted the RI of price. Thus, for consumers to make more sustainable choices, education initiatives need to direct consumers to more sustainable, yet affordable, choices, while considering that purchase intention and effectiveness perception are key attitudinal drivers."
+  },
+  {
+    "objectID": "research/articles/2024_dlamini-mayhew-nolden.html#citation",
+    "href": "research/articles/2024_dlamini-mayhew-nolden.html#citation",
+    "title": "Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice",
+    "section": "Citation",
+    "text": "Citation\n\n@Article{su16146202,\nAUTHOR = {Dlamini, Nomzamo N. and Mayhew, Emily J. and Nolden, Alissa A.},\nTITLE = {Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice},\nJOURNAL = {Sustainability},\nVOLUME = {16},\nYEAR = {2024},\nNUMBER = {14},\nARTICLE-NUMBER = {6202},\nURL = {https://www.mdpi.com/2071-1050/16/14/6202},\nISSN = {2071-1050},\nDOI = {10.3390/su16146202}\n}"
+  },
+  {
+    "objectID": "research/index.html#current-projects",
+    "href": "research/index.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects"
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Research",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDate\n\n\n\n\n\n\nUnpacking Consumer Preferences: Perceptions and Sustainability of Packaging Material for Orange Juice\n\n\nJul 20, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/staff/ejm.html#biography",
+    "href": "people/staff/ejm.html#biography",
+    "title": "Emily Mayhew",
+    "section": "",
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
+  },
+  {
+    "objectID": "people/staff/hrm.html#biography",
+    "href": "people/staff/hrm.html#biography",
+    "title": "Hannah Mulheron",
+    "section": "",
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
+  },
+  {
+    "objectID": "people/gra/mam.html#biography",
+    "href": "people/gra/mam.html#biography",
+    "title": "Mariano Aldana",
+    "section": "",
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
+  },
+  {
+    "objectID": "people/gra/knp.html#biography",
+    "href": "people/gra/knp.html#biography",
+    "title": "Kaveri Ponkshe",
+    "section": "",
+    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl."
   }
 ]
