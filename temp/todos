@@ -1,0 +1,68 @@
+General
+  - color scheme (maybe 5-7 colors?)
+    - light mode:
+    - dark mode:
+  - logos
+    - main logo:
+    - favicon:
+  - navbar layout ok?
+  - landing page layout ok?
+  - simple button/link animation?
+  - official lab name? 
+    Mayhew Sensory Lab? Food Sensory Lab? MSU Sensory Lab? etc..
+
+Accessiblity
+  - add alt text to all images and icons
+  - ensure color scheme meets contrast guidelines (4.5:1 ratio)
+  - run site through accessibilitychecker.org
+  
+About/landing page
+  - Replace placeholder pic
+  - Replace lipsum text
+  
+People
+  - fix issue with placeholder image showing up rather than image from person's profile
+  - set sorting rules for each person type
+  - get all current and former personnel pages created
+    - each page needs: photo, relevant links, bio, education
+  
+Research
+  - Decide layout
+  - Add remaining journal articles
+  - book chapters?
+  - projects section?
+    if we had pages for each project, they could link to the different articles, presentations, etc. associated with them
+  - presentations section?
+  - maybe auto link people to the articles/projects/etc they are associated with
+  
+Courses
+  - decide layout
+  - things to add:
+      - syllabus
+      - course materials
+      - resources
+      
+News
+  - layout - default listing type?
+  - identify things to add
+    - upcoming testing
+    - upcoming presentations
+    - upcoming outreach events
+    - news articles, podcasts, etc.
+    - newly published articles, etc.
+    - what else?
+    
+Services
+  - layout? maybe similar to about/landing
+  - identify what to say here.
+  - add contact info?
+  
+Other potential pages to add:
+  - Get Involved 
+    - could provide info for prospective students
+    - provide info for prospective research participants
+  - Contact
+    - contact form
+    - contact info
+    - ORRRR have contact info on landing page instead??
+  
