@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Mayhew Sensory Lab"
+title: "Welcome to the Mayhew Sensory Lab!"
 website:
   announcement: 
     content: "**New** - this is an announcement" 
@@ -10,11 +10,29 @@ website:
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-![2024 Adventure Time](img/test_landing.png)
+
+
+
+![](img/test_landing.png)
+
+
+
+![](img/test_landing2.png)
+
+
+
+![](img/test_landing3.png)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl. Donec sit amet enim at neque porttitor aliquet. Phasellus facilisis nulla eget placerat eleifend. Vestibulum non egestas eros, eget lobortis ipsum. Nulla rutrum massa eget enim aliquam, id porttitor erat luctus.
+
+
+
+Every food we eat is made up of a specific combination of molecules, organized in a specific way. Our lab is interested in learning how the combination of molecules (composition) and the way they are organized (structure) shapes our sensory perception of the food.
+
+We apply sensory methodology to study the appearance, smell, flavor, texture, and pleasurability of foods. We also use instrumental methods, including gas-chromatography/mass-spectrometry and texture analysis, to characterize the composition and structure of foods. Finally, we build models that can quantitatively describe the causal link between food composition and sensory properties.
+
+If we understand how the chemistry of a food dictates its sensory properties, we can strategically alter formulation or process to produce the desired sensory profile without having to go through multiple rounds of reformulation and sensory testing. We aim to apply this composition-to-sensory modeling approach to promote more nutritious and sustainable eating by improving the sensory properties of nutritious and sustainable foods. Early research projects include studying the relationship between apple volatile composition and flavor and investigating the use of volatile compounds to enhance sweetness as a sugar reduction strategy.
 :::
 
 :::
