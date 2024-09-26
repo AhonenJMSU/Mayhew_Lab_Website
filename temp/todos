@@ -3,13 +3,14 @@ General
     - light mode:
     - dark mode:
   - logos
-    - main logo:
-    - favicon:
+    - main logo - replace placeholder
+    - favicon - replace placeholder
   - navbar layout ok?
   - landing page layout ok?
   - simple button/link animation?
   - official lab name? 
     Mayhew Sensory Lab? Food Sensory Lab? MSU Sensory Lab? etc..
+  - replace social/brand links with actual links to lab accounts
 
 Accessiblity
   - add alt text to all images and icons
