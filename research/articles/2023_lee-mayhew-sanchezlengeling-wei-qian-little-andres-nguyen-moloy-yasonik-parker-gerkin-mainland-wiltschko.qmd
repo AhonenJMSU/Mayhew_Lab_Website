@@ -1,0 +1,92 @@
+---
+title: "A principal odor map unifies diverse tasks in olfactory perception"
+author: 
+  - name: Brian K Lee
+    affiliation:
+    orcid:
+    email:
+  - name: Emily J Mayhew
+    affiliation:
+    orcid:
+    email:
+  - name: Benjamin Sanchez-Lengeling
+    affiliation:
+    orcid:
+    email:
+  - name: Jennifer N Wei
+    affiliation:
+    orcid:
+    email:
+  - name: Wesley W Qian
+    affiliation:
+    orcid:
+    email:
+  - name: Kelsie A Little
+    affiliation:
+    orcid:
+    email:
+  - name: Matthew Andres
+    affiliation:
+    orcid:
+    email:
+  - name: Britney B Nguyen
+    affiliation:
+    orcid:
+    email:
+  - name: Theresa Moloy
+    affiliation:
+    orcid:
+    email:
+  - name: Jacob Yasonik
+    affiliation:
+    orcid:
+    email:
+  - name: Jane K Parker
+    affiliation:
+    orcid:
+    email:
+  - name: Richard C Gerkin
+    affiliation:
+    orcid:
+    email:
+  - name: Joel D Mainland
+    affiliation:
+    orcid:
+    email:
+  - name: Alexander B Wiltschko
+    affiliation:
+    orcid:
+    email:
+date: 2023-08-31
+categories:
+  - cheminformatics
+  - neural networks
+  - odorants
+  - olfactory perception
+  - smell
+---
+
+{{< iconify simple-icons:open-access >}}[Open Access Paper](https://doi.org/10.1126/science.ade4401)
+
+## Abstract
+
+Mapping molecular structure to odor perception is a key challenge in olfaction. We used graph neural networks to generate a principal odor map (POM) that preserves perceptual relationships and enables odor quality prediction for previously uncharacterized odorants. The model was as reliable as a human in describing odor quality: On a prospective validation set of 400 out-of-sample odorants, the model-generated odor profile more closely matched the trained panel mean than did the median panelist. By applying simple, interpretable, theoretically rooted transformations, the POM outperformed chemoinformatic models on several other odor prediction tasks, indicating that the POM successfully encoded a generalized map of structure-odor relationships. This approach broadly enables odor prediction and paves the way toward digitizing odors.
+
+## Citation
+```bibtex
+
+@article{
+doi:10.1126/science.ade4401,
+author = {Brian K. Lee  and Emily J. Mayhew  and Benjamin Sanchez-Lengeling  and Jennifer N. Wei  and Wesley W. Qian  and Kelsie A. Little  and Matthew Andres  and Britney B. Nguyen  and Theresa Moloy  and Jacob Yasonik  and Jane K. Parker  and Richard C. Gerkin  and Joel D. Mainland  and Alexander B. Wiltschko },
+title = {A principal odor map unifies diverse tasks in olfactory perception},
+journal = {Science},
+volume = {381},
+number = {6661},
+pages = {999-1006},
+year = {2023},
+doi = {10.1126/science.ade4401},
+URL = {https://www.science.org/doi/abs/10.1126/science.ade4401},
+eprint = {https://www.science.org/doi/pdf/10.1126/science.ade4401}
+}
+
+```

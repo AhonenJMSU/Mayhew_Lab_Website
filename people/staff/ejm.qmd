@@ -4,6 +4,7 @@ subtitle: "Assistant Professor"
 about:
   template: trestles
   image: ejm.png
+  image-alt: ""
   links:
     - text: "{{< iconify academicons:orcid >}}"
       href: www.google.com

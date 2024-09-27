@@ -4,6 +4,7 @@ subtitle: "Ph.D Student"
 about:
   template: trestles
   image: mam.png
+  image-alt: ""
   links:
     - text: "{{< iconify academicons:orcid >}}"
       href: www.google.com

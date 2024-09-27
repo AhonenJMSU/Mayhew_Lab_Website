@@ -1,0 +1,65 @@
+---
+title: "Market potential and value‐added opportunities of cold‐hardy berries and small fruits in the Intermountain West, USA"
+author: 
+  - name: Sumedha Garg
+    affiliation:
+    orcid:
+    email:
+  - name: Rachel Leisso
+    affiliation:
+    orcid:
+    email:
+  - name: Sun‐Hwa Kim
+    affiliation:
+    orcid:
+    email:
+  - name: Emily Mayhew
+    affiliation:
+    orcid:
+    email:
+  - name: Mei Song
+    affiliation:
+    orcid:
+    email:
+  - name: Bridgid Jarrett
+    affiliation:
+    orcid:
+    email:
+  - name: Wan‐Yuan Kuo
+    affiliation:
+    orcid:
+    email:
+date: 2023-02-03
+categories:
+  - sensory analysis
+  - antioxidant
+  - consumer
+  - fruit
+---
+
+[Paper (Not Open Access)](https://doi.org/10.1111/1750-3841.16426)
+
+## Abstract
+
+Novel cold-hardy berries and small fruits represent an opportunity for growers in the Intermountain West, USA, as the harsh environment is not suited for other common berries and small fruits. This study analyzed the fresh market and value-added potential of haskap berries (Lonicera caerulea), saskatoon berries (Amelenchier alnifolia), and dwarf sour cherry (DSC) fruit (Prunus x kerrasis) by instrumental and consumer studies. Fresh and 2-week stored haskap (cv. Aurora), saskatoon (Lee 3), and DSC (Romeo) were measured for fruit weight, flesh firmness, bulk titratable acidity, pH, and soluble solid content. Participants (n = 115) in at-home sensory tests scored these fruits for overall liking (OL, 9-point hedonic scale), purchase intent (PI, 5-point scale), and willingness-to-pay (WTP, 5-point scale). Ten participants further shared insight on these fruits in focus groups. Instrumental testing found a significant decrease in flesh firmness for 2-week stored haskap, but the consumers’ OL was still comparable to fresh haskap. The fresh and 2-week stored haskap received significantly higher OL, PI, and WTP scores (7.7 ± 1.0, 3.8 ± 1.0, and $3.7 ± 1.0; 7.7 ± 1.2, 3.8 ± 1.1, and $3.7 ± 1.0, respectively) compared to saskatoon (6.1 ± 1.8, 2.8 ± 1.1, and $3.0 ± 0.9, respectively) and DSC (5.6 ± 2.2, 2.5 ± 1.2, and $3.1 ± 1.0, respectively) (α = 0.05). The focus groups indicated that participants want to support local produce. The participants expressed interest in fresh unprocessed haskap berries, but preferred saskatoon and DSC in different value-added formats. Hence, this study concluded that there is an untapped fresh-market potential for haskap berries and there are value-added opportunities to extend the sale season and improve the palatability of saskatoon and DSC.
+
+## Citation
+```bibtex
+
+@article{https://doi.org/10.1111/1750-3841.16426,
+author = {Garg, Sumedha and Leisso, Rachel and Kim, Sun-Hwa and Mayhew, Emily and Song, Mei and Jarrett, Bridgid and Kuo, Wan-Yuan},
+title = {Market potential and value-added opportunities of cold-hardy berries and small fruits in the Intermountain West, USA},
+journal = {Journal of Food Science},
+volume = {88},
+number = {2},
+pages = {860-876},
+keywords = {antioxidant, consumer, fruit, sensory analysis},
+doi = {https://doi.org/10.1111/1750-3841.16426},
+url = {https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.16426},
+eprint = {https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.16426}
+year = {2023}
+}
+
+
+
+```
