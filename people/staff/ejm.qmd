@@ -7,21 +7,22 @@ about:
   image-alt: ""
   links:
     - text: "{{< iconify academicons:orcid >}}"
-      href: www.google.com
+      href: https://orcid.org/0000-0001-7881-2306
     - text: "{{< iconify academicons:google-scholar >}}"
-      href: www.google.com
+      href: https://scholar.google.com/citations?user=SuMyyQMAAAAJ&hl=en
     - text: "{{< iconify fa:github >}}"
-      href: www.google.com
+      href: https://github.com/emayhew
 ---
 ## Biography
 
-Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl.
+Emily Mayhew is a sensory scientist with an interest in measuring the modeling the relationship between chemistry and perception. She is currently an Assistant Professor in the Department of Food Science & Human Nutrition at Michigan State University. 
 
 ## Education
 
+Ph.D. Food Science, University of Illinois at Urbana-Champaign, 2017
+
 B.S. Chemistry, College of William & Mary, 2012
 
-Ph.D. Food Science, University of Illinois at Urbana-Champaign, 2017
 
 ## Experience
 
@@ -29,6 +30,8 @@ Senior Associate Scientist, SC Johnson & Son, Inc., 2017-2018
 
 Postdoctoral Fellow, Monell Chemical Senses Center, 2018-2021
 
+
 ## Instructional Activities
 
-FSC 310: Sensory Analysis and Consumer Research
+*(Michigan State University)*
+FSC 310: Sensory Analysis and Consumer Research 
