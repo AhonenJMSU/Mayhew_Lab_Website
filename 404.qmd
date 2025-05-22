@@ -1,5 +1,15 @@
 ---
-title: "404 - File Not Found"
+title: ""
 ---
 
-The page you were directed to was not found. 
+<div style="text-align: center; font-size: 5em; font-weight: bold">
+  Oops!
+</div>
+
+<div style="text-align: center; font-size: 2em; font-weight: bold">
+  404: File not found error
+</div>
+
+<div style="text-align: center; font-size: 1.5em;">
+  The page you were trying to find does not exist.
+</div>  

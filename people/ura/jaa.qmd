@@ -1,0 +1,33 @@
+---
+title: "Jonas Ahonen"
+subtitle: "Undergraduate Student"
+image: jaa.jpeg
+about:
+  template: trestles
+  links:
+    - text: "{{< iconify academicons:orcid >}}"
+      href: www.google.com
+    - text: "{{< iconify academicons:google-scholar >}}"
+      href: www.google.com
+    - text: "{{< iconify fa:github >}}"
+      href: www.google.com
+---
+## Biography
+
+Jonas is the president of the MSU Food Science Club and an undergraduate researcher interested in flavor chemistry and sensory science. 
+
+## Education
+
+B.S. Food Science, Michigan State University, 2026
+
+## Experience
+
+Undergraduate Research Assistant, Bergholz Lab at Michigan State University, 2024-2025
+
+Quality Assurance Intern, Continental Dairy Facilities LLC, 2024
+
+Undergraduate Teaching Assistant, Department of Computer Science and Engineering at Michigan State University, 2023
+
+## Instructional Activities
+
+Undergraduate Teaching Assistant, CSE 102: Algorithmic Thinking and Programming, Michigan State University

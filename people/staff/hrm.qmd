@@ -1,9 +1,9 @@
 ---
 title: "Hannah Mulheron"
 subtitle: "Lab Manager"
+image: hrm.png
 about:
   template: trestles
-  image: hrm.png
   image-alt: ""
   links:
     - text: "{{< iconify academicons:orcid >}}"

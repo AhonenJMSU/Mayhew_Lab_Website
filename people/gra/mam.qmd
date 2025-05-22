@@ -1,9 +1,9 @@
 ---
 title: "Mariano Aldana"
 subtitle: "Ph.D Student"
+image: mam.png
 about:
   template: trestles
-  image: mam.png
   image-alt: ""
   links:
     - text: "{{< iconify academicons:orcid >}}"

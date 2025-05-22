@@ -1,9 +1,9 @@
 ---
 title: "Emily Mayhew"
 subtitle: "Assistant Professor"
+image: ejm.png
 about:
   template: trestles
-  image: ejm.png
   image-alt: ""
   links:
     - text: "{{< iconify academicons:orcid >}}"

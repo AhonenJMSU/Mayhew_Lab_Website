@@ -5,26 +5,25 @@ listing:
     contents: "staff/*.qmd"
     type: grid
     fields: [image, title, subtitle]
-    image-placeholder: person-placeholder.png
-    image-height: 10em
+    image-height: 12em
   - id: gra
     contents: "gra/*.qmd"
     type: grid
     fields: [image, title, subtitle]
     image-placeholder: person-placeholder.png
-    image-height: 10em
+    image-height: 12em
   - id: ura
     contents: "ura/*.qmd"
     type: grid
     fields: [image, title, subtitle]
     image-placeholder: person-placeholder.png
-    image-height: 10em
+    image-height: 12em
   - id: alumni
     contents: "alumni/*.qmd"
     type: grid
     fields: [image, title, subtitle]
     image-placeholder: person-placeholder.png
-    image-height: 10em
+    image-height: 12em
 ---
 
 ## Faculty & Staff

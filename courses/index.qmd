@@ -3,3 +3,7 @@ title: "Courses"
 ---
 
 FSC 310: Sensory Analysis and Consumer Research
+
+Offered Fall of every year. 
+
+Discriminative, affective and descriptive methods used to evoke, measure, analyze, and interpret sensory reactions to food characteristics and consumer needs.

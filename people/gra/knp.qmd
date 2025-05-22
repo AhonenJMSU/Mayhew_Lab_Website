@@ -1,9 +1,9 @@
 ---
 title: "Kaveri Ponkshe"
 subtitle: "M.S. Student"
+image: knp.png
 about:
   template: trestles
-  image: knp.png
   image-alt: ""
   links:
     - text: "{{< iconify academicons:orcid >}}"

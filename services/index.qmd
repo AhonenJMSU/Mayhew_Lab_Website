@@ -1,5 +1,47 @@
 ---
-title: "Services"
+title: "MSU Sensory Lab Services"
 ---
+We aim to make sensory and consumer science insights more accessible to local food producers. If you have a project in need of sensory or consumer testing, [please send us an e-mail with your inquiry.](../contact/index.qmd)
 
-We aim to make sensory and consumer science insights more accessible to local food producers. If you have a project in need of sensory or consumer testing, please send us an e-mail with your inquiry.
+The MSU Sensory Laboratory is located on the first floor of the G. Malcolm Trout FSHN Building and is accessible from all other processing facilities in the department.  The Sensory Lab offers facilities for:
+
+*    Product sensory evaluation
+*    Sensory panel training
+*    Sample preparation and storage
+*    Food product development
+*    Nutrient analysis (using Genesis R and D)
+*    Nutrition facts labeling
+
+## Facilities
+
+#### Testing Area
+The testing area allows for discriminative, descriptive, and consumer panel methodology and includes: 
+
+*    Seven individual booths with sliding door pass-throughs equipped with touch screen computers and Formica countertops.
+*    Two banks of individually controlled fluorescent lights (cool white, red or green tubes).
+*    Positive air pressure. 
+*    Sensory Information Management System (SIMS 2000 for Windows) from Sensory Computer Systems.
+
+#### Training Area
+A training area suitable for profile or descriptive analysis panels is adjacent to the testing facilities and includes:
+
+*    Conference table seating for 10-12 panelists. 
+*    Dry erase board
+
+#### Preparation Area
+Adjacent to the testing area is a preparation laboratory, which allows efficient preparation and presentation of samples through the sliding pass-through doors. Equipment in the preparation area:
+
+*    Preparation benches
+*    Hand and dishwashing facilities
+*    Conventional range/oven
+*    Microwave ovens
+*    Freezer and refrigerator storage
+*    Preparation and serving utensils
+*    Storage for dry ingredients, glassware and trays
+*    Analytical balance, digital balancer
+*    Fisher Isotemp Lab oven
+*    Water activity meter (AquaLab)
+*    TA.XT2i Texture Analyzer
+*    Konica Color Reader
+*    Refractometer
+*    pH meter

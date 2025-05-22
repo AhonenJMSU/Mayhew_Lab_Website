@@ -3,7 +3,7 @@ project:
 
 website:
   description: "This is a description of the website."
-  favicon: img/3.svg
+  favicon: img/white-small-circle-logo.png
   site-url: www.google.com
   repo-url: www.google.com
   #reader-mode: true
@@ -24,14 +24,12 @@ website:
     
   back-to-top-navigation: true
   bread-crumbs: true
-  image: img/5.svg
+  image: img/bw_small_circle.png
   image-alt: "The logo for the Mayhew Sensory Lab which features blah blah blah."
   navbar:
     title: "Mayhew Sensory Lab"
-    logo: img/5.svg
+    logo: img/white-small-circle-logo.png
     left:
-      - text: About
-        href: index.qmd
       - text: People
         href: people/index.qmd
       - text: Research
@@ -42,6 +40,8 @@ website:
         href: news/index.qmd
       - text: Services        
         href: services/index.qmd
+      - text: Contact
+        href: contact/index.qmd
     right:
       - text: "{{< iconify fa:instagram >}}"
         href: www.google.com
