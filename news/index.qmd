@@ -1,5 +1,17 @@
 ---
-title: "News"
+title: "Mayhew Lab in the News!"
+listing:
+  contents: 
+  - path: "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2025/february/columns/science-forward-how-aroma-affects-honeys-sweetness"
+    image: https://www.ift.org/-/media/food-technology/column-images/2025/02/0225_r_scienceforward_hero_790x600.jpg?mw=2580&hash=CBC6BD833F7EA203B76FC42A0028FF81
+    title: "How Aroma Affects Honey’s Sweetness"
+    description: "News Article"
+    
+  - path: "https://www.ift.org/news-and-publications/podcasts/omnivore/ep-54-honeys-aroma-and-sweetness"
+    image: https://ftomnivore.blubrry.net/wp-content/uploads/powerpress/1022_PUB_Omnivore-Podcast_1500x1500.jpg
+    title: "Omnivore EP 54: Honey’s Aroma and Sweetness, Can We Refine the Definition of UPFs?"
+    description: "Podcast Episode"
+    
+  type: grid
+  grid-columns: 2
 ---
-
-Lab news will go here!

@@ -15,6 +15,9 @@ listing:
     image-placeholder: person-placeholder.png
     image-height: 10em
 ---
+## Current Research Projects
+Insert research projects/studies here
+
 
 ## Journal Articles
 :::{#articles}

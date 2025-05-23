@@ -15,6 +15,7 @@ author:
     email:
   - name: Emily Mayhew
     affiliation:
+    url: ../../people/staff/ejm.qmd
     orcid:
     email:
   - name: Mei Song

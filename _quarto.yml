@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - people
 
 website:
   description: "This is a description of the website."
@@ -23,7 +25,7 @@ website:
     - text: "License"
       href: license/index.qmd
     
-  back-to-top-navigation: true
+  back-to-top-navigation: false
   bread-crumbs: true
   image: img/bw_small_circle.png
   image-alt: "The logo for the Mayhew Sensory Lab which features blah blah blah."
