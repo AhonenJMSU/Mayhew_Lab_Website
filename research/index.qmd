@@ -1,24 +1,37 @@
 ---
 title: "Research"
 listing:
-  # - id: projects
-  #   contents: "projects/*.qmd"
-  #   fields: [title, subtitle]
-  #   image-placeholder: person-placeholder.png
-  #   image-height: 10em
+  - id: projects
+    contents: "projects/*.qmd"
+    fields: [title, subtitle]
+    image-placeholder: person-placeholder.png
+    image-height: 10em
   - id: articles
     sort: "date desc"
     categories: true
     contents: "articles/*.qmd"
     type: table
-    fields: [title, date]
+    fields: [date, title, author]
     image-placeholder: person-placeholder.png
     image-height: 10em
 ---
 ## Current Research Projects
-Insert research projects/studies here
+:::{#projects}
+:::
 
 
-## Journal Articles
+## Publications
 :::{#articles}
 :::
+
+<div> 
+<h1 style="font-family:Merriweather; font-size:2.8em">2025</h1>
+<h4><b> PAPER TITLE</b></h4>
+<p> Author list here </p>
+<p> description </p>
+</div>
+
+
+
+
+
