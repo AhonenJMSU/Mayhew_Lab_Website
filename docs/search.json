@@ -193,7 +193,7 @@
     "href": "contact/index.html",
     "title": "",
     "section": "",
-    "text": "Dr. Emily Mayhew\n\n\n\nAssistant Professor and Facility Coordinator\n\nPhone: 517-884-0046\nEmail: mayhewem@msu.edu\n\nMSU Trout Food Science and Human Nutrition Building\n469 Wilson Rd., East Lansing, MI 48824\n\n\n\n\n Back to top"
+    "text": "Dr. Emily Mayhew\n\n\n\nAssistant Professor and Facility Coordinator\n\nPhone: 517-884-0046\nEmail: mayhewem@msu.edu\n\nMSU Trout Food Science and Human Nutrition Building\n469 Wilson Rd., East Lansing, MI 48824"
   },
   {
     "objectID": "courses/index.html",
@@ -355,5 +355,12 @@
     "title": "How Aroma Affects Honey’s Sweetness",
     "section": "",
     "text": "Read the full article on IFT.org"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "text goes here"
   }
 ]

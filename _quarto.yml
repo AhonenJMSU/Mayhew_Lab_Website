@@ -18,13 +18,14 @@ website:
   #cookie-consent:
   page-footer:
     border: true
-    left: 
-    - text: "2024 Aubrey DuBois"
-    center: "Made with [Quarto](www.quarto.com)"
-    right:
-    - text: "License"
+    center: 
+    - text: "<div style='text-align: center; font-size: 2em; font-weight: bold; color: black;'> Contact Us</div>
+            <div style='text-align: left; font-size: 1.25em;'><br>mayhewem@msu.edu<br><br>Michigan State University<br>G. Malcolm Trout FSHN Building<br>469 Wilson Road<br> East Lansing, MI 48824 </div>"
+    right: "Made with [Quarto](www.quarto.com)"
+    left:
+    - text: "<div style='text-align: left;'><br><br><br><br><br>2025 Mayhew Lab<br></div>"
       href: license/index.qmd
-    
+
   back-to-top-navigation: false
   bread-crumbs: true
   image: img/bw_small_circle.png
@@ -32,7 +33,7 @@ website:
   navbar:
     title: "Mayhew Sensory Lab"
     logo: img/white-small-circle-logo.png
-    left:
+    right:
       - text: People
         href: people/index.qmd
       - text: Research
@@ -45,7 +46,8 @@ website:
         href: services/index.qmd
       - text: Contact
         href: contact/index.qmd
-    right:
+      - text: Publications
+        href: publications/index.qmd
       - text: "{{< iconify fa:instagram >}}"
         href: www.google.com
       - text: "{{< iconify fa:facebook-square >}}"
