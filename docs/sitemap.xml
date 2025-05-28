@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>www.google.com/services/index.html</loc>
-    <lastmod>2025-05-22T19:45:14.714Z</lastmod>
+    <lastmod>2025-05-27T14:50:19.924Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/people/gra/knp.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>www.google.com/news/index.html</loc>
-    <lastmod>2025-05-23T18:02:55.577Z</lastmod>
+    <lastmod>2025-05-27T14:50:19.912Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/index.html</loc>
@@ -26,11 +26,11 @@
   </url>
   <url>
     <loc>www.google.com/license/index.html</loc>
-    <lastmod>2025-05-21T19:30:00.000Z</lastmod>
+    <lastmod>2025-05-27T14:50:19.911Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/research/index.html</loc>
-    <lastmod>2025-05-27T16:45:19.667Z</lastmod>
+    <lastmod>2025-05-28T14:34:27.889Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/research/articles/2023_garg-leisso-kim-mayhew-song-jarrett-kuo.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>www.google.com/research/articles/2024_dlamini-mayhew-nolden.html</loc>
-    <lastmod>2025-05-21T19:30:00.000Z</lastmod>
+    <lastmod>2025-05-27T14:50:19.922Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/research/articles/2023_lee-mayhew-sanchezlengeling-wei-qian-little-andres-nguyen-moloy-yasonik-parker-gerkin-mainland-wiltschko.html</loc>
@@ -50,15 +50,15 @@
   </url>
   <url>
     <loc>www.google.com/contact/index.html</loc>
-    <lastmod>2025-05-22T20:28:02.831Z</lastmod>
+    <lastmod>2025-05-27T14:50:19.793Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/courses/index.html</loc>
-    <lastmod>2025-05-22T18:16:47.642Z</lastmod>
+    <lastmod>2025-05-27T14:50:19.793Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/people/index.html</loc>
-    <lastmod>2025-05-27T16:04:13.638Z</lastmod>
+    <lastmod>2025-05-28T14:03:52.826Z</lastmod>
   </url>
   <url>
     <loc>www.google.com/people/staff/ejm.html</loc>
@@ -75,5 +75,9 @@
   <url>
     <loc>www.google.com/news/news-posts/Ift-honey-aroma.html</loc>
     <lastmod>2025-05-23T17:29:07.031Z</lastmod>
+  </url>
+  <url>
+    <loc>www.google.com/docs/people/index.html</loc>
+    <lastmod>2025-05-27T16:04:13.638Z</lastmod>
   </url>
 </urlset>

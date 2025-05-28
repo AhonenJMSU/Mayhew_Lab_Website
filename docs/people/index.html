@@ -155,34 +155,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-alumni .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-alumni'] = new List('listing-alumni', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -282,7 +254,7 @@ window.Quarto = {
   <li><a href="#faculty-staff" id="toc-faculty-staff" class="nav-link active" data-scroll-target="#faculty-staff">Faculty &amp; Staff</a></li>
   <li><a href="#graduate-research-assistants" id="toc-graduate-research-assistants" class="nav-link" data-scroll-target="#graduate-research-assistants">Graduate Research Assistants</a></li>
   <li><a href="#undergraduate-research-assistants" id="toc-undergraduate-research-assistants" class="nav-link" data-scroll-target="#undergraduate-research-assistants">Undergraduate Research Assistants</a></li>
-  <li><a href="#alumni" id="toc-alumni" class="nav-link" data-scroll-target="#alumni">Alumni</a></li>
+  <li><a href="#lab-alumni" id="toc-lab-alumni" class="nav-link" data-scroll-target="#lab-alumni">Lab Alumni</a></li>
   </ul>
 </nav>
     </div>
@@ -407,30 +379,14 @@ No matching items
 </div>
 </div>
 </section>
-<section id="alumni" class="level2">
-<h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
-<div id="listing-alumni" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748357419913" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="../people/alumni/example.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top"><img src="person-placeholder.png" style="height: 12em;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Example
-</h5>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<section id="lab-alumni" class="level2">
+<h2 class="anchored" data-anchor-id="lab-alumni">Lab Alumni</h2>
+<section id="list-lab-members-here" class="level5">
+<h5 class="anchored" data-anchor-id="list-lab-members-here">List lab members here</h5>
 
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -25,14 +25,14 @@ listing:
     image-height: 12em
     grid-item-border: false
     grid-item-align: center
-  - id: alumni
-    contents: "alumni/*.qmd"
-    type: grid
-    fields: [image, title, subtitle]
-    image-placeholder: person-placeholder.png
-    image-height: 12em
-    grid-item-border: false
-    grid-item-align: center
+  # - id: alumni
+  #   contents: "alumni/*.qmd"
+  #   type: grid
+  #   fields: [image, title, subtitle]
+  #   image-placeholder: person-placeholder.png
+  #   image-height: 12em
+  #   grid-item-border: false
+  #   grid-item-align: center
 ---
 
 ## Faculty & Staff
@@ -47,6 +47,5 @@ listing:
 :::{#ura}
 :::
 
-## Alumni
-:::{#alumni}
-:::
+## Lab Alumni
+##### List lab members here

@@ -24,12 +24,22 @@ listing:
 :::{#articles}
 :::
 
-<div> 
-<h1 style="font-family:Merriweather; font-size:2.8em">2025</h1>
-<h4><b> PAPER TITLE</b></h4>
-<p> Author list here </p>
-<p> description </p>
+## Publications
+
+# 2024
+<div>
+<h4><b> Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging for Orange Juice</b></h4>
+<p> Nomzamo N Dlamini, <b>Emily J Mayhew</b>, Alissa A Nolden </p>
+<p> <a href="https://www.mdpi.com/2071-1050/16/14/6202">Access the paper here.</a> </p>
 </div>
+
+
+<!-- <div> -->
+<!-- <h1 style="font-family:Merriweather; font-size:2.8em">2025</h1> -->
+<!-- <h4><b> PAPER TITLE</b></h4> -->
+<!-- <p> Author list here </p> -->
+<!-- <p> description </p> -->
+<!-- </div> -->
 
 
 
