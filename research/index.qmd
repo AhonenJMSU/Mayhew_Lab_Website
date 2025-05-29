@@ -1,36 +1,41 @@
 ---
 title: "Research"
-listing:
-  - id: projects
-    contents: "projects/*.qmd"
-    fields: [title, subtitle]
-    image-placeholder: person-placeholder.png
-    image-height: 10em
-  - id: articles
-    sort: "date desc"
-    categories: true
-    contents: "articles/*.qmd"
-    type: table
-    fields: [date, title, author]
-    image-placeholder: person-placeholder.png
-    image-height: 10em
+# listing:
+#   - id: projects
+#     contents: "projects/*.qmd"
+#     fields: [title, subtitle]
+#     image-placeholder: person-placeholder.png
+#     image-height: 10em
+#   - id: articles
+#     sort: "date desc"
+#     categories: true
+#     contents: "articles/*.qmd"
+#     type: table
+#     fields: [date, title, author]
+#     image-placeholder: person-placeholder.png
+#     image-height: 10em
 ---
-## Current Research Projects
-:::{#projects}
-:::
-
-
 ## Publications
-:::{#articles}
-:::
 
-## Publications
+<h4 style="text-align: center;"><b> For a complete list, find us on <a href="https://scholar.google.com/citations?hl=en&user=SuMyyQMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></b></h4>
+
+# 2025
+<div>
+<h4><b> Clustering method and stimulus presentation order shift sweet liking phenotype distributions</b></h4>
+<p> Robin M. Tucker, Sze-Yen Tan, Aubrey DuBois, <b>Emily J Mayhew</b></p>
+<p> <a href="https://www.sciencedirect.com/science/article/pii/S0950329325000849">Access the paper here.</a> </p>
+</div>
 
 # 2024
 <div>
+<h4><b> Quantifying the sweetness intensity and impact of aroma in honey from four floral sources</b></h4>
+<p> Hannah Mulheron, Aubrey DuBois, <b>Emily J Mayhew</b></p>
+<p> <a href="https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.17461">Download the paper.</a> </p>
+</div>
+<div>
 <h4><b> Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging for Orange Juice</b></h4>
 <p> Nomzamo N Dlamini, <b>Emily J Mayhew</b>, Alissa A Nolden </p>
-<p> <a href="https://www.mdpi.com/2071-1050/16/14/6202">Access the paper here.</a> </p>
+<p> <a href="https://www.mdpi.com/2071-1050/16/14/6202">Open access here.</a> </p>
 </div>
 
 

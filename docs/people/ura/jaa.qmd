@@ -5,10 +5,8 @@ image: jaa.jpeg
 about:
   template: trestles
   links:
-#    - text: "{{< iconify academicons:orcid >}}"
-#      href: www.google.com
-#    - text: "{{< iconify academicons:google-scholar >}}"
-#      href: www.google.com
+    - text: "{{< iconify mdi:linkedin >}}"
+      href: https://www.linkedin.com/in/jonas-ahonen/
     - text: "{{< iconify fa:github >}}"
       href: https://github.com/AhonenJMSU
 ---
@@ -26,8 +24,4 @@ Undergraduate Research Assistant, Bergholz Lab at Michigan State University, 202
 
 Quality Assurance Intern, Continental Dairy Facilities LLC, 2024
 
-Undergraduate Teaching Assistant, Department of Computer Science and Engineering at Michigan State University, 2023
-
-## Instructional Activities
-
-Undergraduate Teaching Assistant, CSE 102: Algorithmic Thinking and Programming, Michigan State University
+Undergraduate Teaching Assistant, CSE 102: Algorithmic Thinking and Programming, Department of Computer Science and Engineering at Michigan State University, 2023

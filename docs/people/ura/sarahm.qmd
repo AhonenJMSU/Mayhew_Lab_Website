@@ -1,0 +1,17 @@
+---
+title: "Sarah Samir Modi"
+subtitle: "Undergraduate Student"
+about:
+  template: trestles
+---
+## Biography
+
+Biography text here. 
+
+## Education
+
+Education goes here. 
+
+## Experience
+
+Experience goes here. 

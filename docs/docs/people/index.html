@@ -155,34 +155,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-alumni .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-alumni'] = new List('listing-alumni', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -282,7 +254,11 @@ window.Quarto = {
   <li><a href="#faculty-staff" id="toc-faculty-staff" class="nav-link active" data-scroll-target="#faculty-staff">Faculty &amp; Staff</a></li>
   <li><a href="#graduate-research-assistants" id="toc-graduate-research-assistants" class="nav-link" data-scroll-target="#graduate-research-assistants">Graduate Research Assistants</a></li>
   <li><a href="#undergraduate-research-assistants" id="toc-undergraduate-research-assistants" class="nav-link" data-scroll-target="#undergraduate-research-assistants">Undergraduate Research Assistants</a></li>
-  <li><a href="#alumni" id="toc-alumni" class="nav-link" data-scroll-target="#alumni">Alumni</a></li>
+  <li><a href="#lab-alumni" id="toc-lab-alumni" class="nav-link" data-scroll-target="#lab-alumni">Lab Alumni</a>
+  <ul class="collapse">
+  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students">Graduate Students</a></li>
+  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students">Undergraduate Students</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -300,7 +276,7 @@ window.Quarto = {
 <a href="../../docs/people/staff/ejm.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center borderless">
 <p class="card-img-top">
-<img loading="lazy" src="../../docs/people/staff/ejm.png" class="thumbnail-image card-img" style="height: 12em;">
+<img loading="lazy" src="../../docs/people/staff/ejm.png" class="thumbnail-image card-img" style="height: auto;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -317,7 +293,7 @@ Assistant Professor
 <a href="../../docs/people/staff/hrm.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center borderless">
 <p class="card-img-top">
-<img loading="lazy" src="../../docs/people/staff/hrm.png" class="thumbnail-image card-img" style="height: 12em;">
+<img loading="lazy" src="../../docs/people/staff/hrm.png" class="thumbnail-image card-img" style="height: auto;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -340,11 +316,26 @@ No matching items
 <h2 class="anchored" data-anchor-id="graduate-research-assistants">Graduate Research Assistants</h2>
 <div id="listing-gra" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748357419914" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748459111300" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
+<a href="../../docs/people/gra/faith.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Faith Zillinger
+</h5>
+<div class="card-subtitle listing-subtitle">
+Ph.D Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1748357419914" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
 <a href="../../docs/people/gra/knp.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center borderless">
 <p class="card-img-top">
-<img loading="lazy" src="../../docs/people/gra/knp.png" class="thumbnail-image card-img" style="height: 12em;">
+<img loading="lazy" src="../../docs/people/gra/knp.png" class="thumbnail-image card-img" style="height: auto;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -357,11 +348,11 @@ M.S. Student
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1748357419916" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1748357419916" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
 <a href="../../docs/people/gra/mam.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center borderless">
 <p class="card-img-top">
-<img loading="lazy" src="../../docs/people/gra/mam.jpg" class="thumbnail-image card-img" style="height: 12em;">
+<img loading="lazy" src="../../docs/people/gra/mam.jpg" class="thumbnail-image card-img" style="height: auto;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -369,6 +360,21 @@ Mariano Aldana
 </h5>
 <div class="card-subtitle listing-subtitle">
 Ph.D Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1748459218951" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
+<a href="../../docs/people/gra/somn.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Somneang Oul
+</h5>
+<div class="card-subtitle listing-subtitle">
+M.S. Student
 </div>
 </div>
 </div>
@@ -384,15 +390,246 @@ No matching items
 <h2 class="anchored" data-anchor-id="undergraduate-research-assistants">Undergraduate Research Assistants</h2>
 <div id="listing-ura" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748357419921" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748460093255" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/alyssah.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alyssa Hawkins
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1748460057821" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/anushap.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anusha Pandya
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1748459974437" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/corag.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cora Garling
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1748459992992" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/gisellet.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Giselle Torres
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1748460729250" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
 <a href="../../docs/people/ura/jaa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center borderless">
 <p class="card-img-top">
-<img loading="lazy" src="../../docs/people/ura/jaa.jpeg" class="thumbnail-image card-img" style="height: 12em;">
+<img loading="lazy" src="../../docs/people/ura/jaa.jpeg" class="thumbnail-image card-img" style="height: auto;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Jonas Ahonen
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1748460107177" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/lilyw.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lily Wei
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1748460075880" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/saamia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Saamia Hasan
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy (2).html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy (3).html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy (4).html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy (5).html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy (6).html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy (7).html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy (8).html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1748459624111" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="../../docs/people/ura/sarahc - Copy.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1748459923962" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/sarahc.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Coyne
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1748460013290" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/sarahm.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah Samir Modi
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1748460035621" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="../../docs/people/ura/zoeyz.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center borderless">
+<p class="card-img-top"><img src="person-placeholder.png" style="height: auto;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Zoey Zienski
 </h5>
 <div class="card-subtitle listing-subtitle">
 Undergraduate Student
@@ -407,30 +644,56 @@ No matching items
 </div>
 </div>
 </section>
-<section id="alumni" class="level2">
-<h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
-<div id="listing-alumni" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748357419913" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="../../docs/people/alumni/example.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center borderless">
-<p class="card-img-top"><img src="person-placeholder.png" style="height: 12em;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Example
-</h5>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<section id="lab-alumni" class="level2">
+<h2 class="anchored" data-anchor-id="lab-alumni">Lab Alumni</h2>
+<section id="graduate-students" class="level3">
+<h3 class="anchored" data-anchor-id="graduate-students">Graduate Students</h3>
+<section id="kaveri-ponkshe-2023-2025" class="level5">
+<h5 class="anchored" data-anchor-id="kaveri-ponkshe-2023-2025"><a href="https://www.linkedin.com/in/kaveriponkshe/">Kaveri Ponkshe 2023-2025</a></h5>
+</section>
+</section>
+<section id="undergraduate-students" class="level3">
+<h3 class="anchored" data-anchor-id="undergraduate-students">Undergraduate Students</h3>
+<section id="courtney-maurer-2024-2025" class="level5">
+<h5 class="anchored" data-anchor-id="courtney-maurer-2024-2025"><a href="https://www.linkedin.com/in/courtneypmaurer/">Courtney Maurer 2024-2025</a></h5>
+</section>
+<section id="anna-wagner-2022-2025" class="level5">
+<h5 class="anchored" data-anchor-id="anna-wagner-2022-2025"><a href="https://www.linkedin.com/in/anna-wagner-47b00b284/">Anna Wagner 2022-2025</a></h5>
+</section>
+<section id="jaye-le-2024" class="level5">
+<h5 class="anchored" data-anchor-id="jaye-le-2024"><a href="https://www.linkedin.com/in/chau-le-934652264/">Jaye Le 2024</a></h5>
+</section>
+<section id="katie-runstrom-2024" class="level5">
+<h5 class="anchored" data-anchor-id="katie-runstrom-2024"><a href="https://www.linkedin.com/in/katherine-runstrom-b0a880293/">Katie Runstrom 2024</a></h5>
+</section>
+<section id="rhajani-shepherd-2023-2024" class="level5">
+<h5 class="anchored" data-anchor-id="rhajani-shepherd-2023-2024"><a href="https://www.linkedin.com/in/rhajani-shepherd-590b861ba/">Rhajani Shepherd 2023-2024</a></h5>
+</section>
+<section id="corrina-beecher-2022-2024" class="level5">
+<h5 class="anchored" data-anchor-id="corrina-beecher-2022-2024"><a href="https://www.linkedin.com/in/corrina-beecher-31bb44259/">Corrina Beecher 2022-2024</a></h5>
+</section>
+<section id="tyrese-turner-2023-2024" class="level5">
+<h5 class="anchored" data-anchor-id="tyrese-turner-2023-2024"><a href="https://www.linkedin.com/in/tyreseturner/">Tyrese Turner 2023-2024</a></h5>
+</section>
+<section id="alena-damas-2022-2024" class="level5">
+<h5 class="anchored" data-anchor-id="alena-damas-2022-2024">Alena Damas 2022-2024</h5>
+</section>
+<section id="otto-steinbrecher-2022-2023" class="level5">
+<h5 class="anchored" data-anchor-id="otto-steinbrecher-2022-2023"><a href="https://www.linkedin.com/in/otto-steinbrecher-15680a164/">Otto Steinbrecher 2022-2023</a></h5>
+</section>
+<section id="winter-graham-2022-2023" class="level5">
+<h5 class="anchored" data-anchor-id="winter-graham-2022-2023"><a href="https://www.linkedin.com/in/winterannj/">Winter Graham 2022-2023</a></h5>
+</section>
+<section id="alaina-cox-2022-2023" class="level5">
+<h5 class="anchored" data-anchor-id="alaina-cox-2022-2023"><a href="https://www.linkedin.com/in/alaina-cox-50066922b/">Alaina Cox 2022-2023</a></h5>
+</section>
+<section id="hannah-mulheron-2022" class="level5">
+<h5 class="anchored" data-anchor-id="hannah-mulheron-2022"><a href="https://www.linkedin.com/in/hannahmulheron/">Hannah Mulheron 2022</a></h5>
 
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->

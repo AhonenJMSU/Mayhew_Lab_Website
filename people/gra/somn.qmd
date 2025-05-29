@@ -1,7 +1,6 @@
 ---
-title: "Kaveri Ponkshe"
+title: "Somneang Oul"
 subtitle: "M.S. Student"
-image: knp.png
 about:
   template: trestles
   image-alt: ""
