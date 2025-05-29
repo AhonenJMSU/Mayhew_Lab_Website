@@ -40,8 +40,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-140c53b61d842ccb50a7e28a840415e9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-bf890bd6827c5be45582cfda5cc3bbb7.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-d3b27c6d8ba3e2ac24920ab949084484.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-1e402239150cb30796e3a2132cf8616c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,16 +106,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./courses/index.html"> 
-<span class="menu-text">Courses</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./news/index.html"> 
-<span class="menu-text">News</span></a>
+    <a class="nav-link" href="./outreach/index.html"> 
+<span class="menu-text">Outreach</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./services/index.html"> 
 <span class="menu-text">Services</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./news/index.html"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact/index.html"> 
@@ -155,11 +158,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/BlueberriesbyPassthrough.jpg" class="lightbox" data-gallery="my-gallery" title="A Lovely Image"><img src="img/BlueberriesbyPassthrough.jpg" class="img-fluid figure-img" alt="A Lovely Image"></a></p>
+<figcaption>A Lovely Image</figcaption>
+</figure>
+</div>
+<p><a href="img/RainbowTestingBooths.jpg" data-group="my-gallery">Another Lovely Image</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="img/ScienceFair2023.jpg" class="lightbox" data-gallery="my-gallery" title="The Last Lovely Image"><img src="img/ScienceFair2023.jpg" class="img-fluid figure-img" alt="The Last Lovely Image"></a></p>
+<figcaption>The Last Lovely Image</figcaption>
+</figure>
+</div>
 <div class="grid">
 <div class="g-col-12 g-col-md-6">
-<p><img src="img/RainbowTestingBooths.jpg" class="img-fluid"></p>
-<p><img src="img/BlueberriesbyPassthrough.jpg" class="img-fluid"></p>
-<p><img src="img/ScienceFair2023.jpg" class="img-fluid"></p>
+<p><a href="img/RainbowTestingBooths.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="img/RainbowTestingBooths.jpg" class="img-fluid"></a></p>
+<p><a href="img/BlueberriesbyPassthrough.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="img/BlueberriesbyPassthrough.jpg" class="img-fluid"></a></p>
+<p><a href="img/ScienceFair2023.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="img/ScienceFair2023.jpg" class="img-fluid"></a></p>
 </div>
 <div class="g-col-12 g-col-md-6">
 <p>Every food we eat is made up of a specific combination of molecules, organized in a specific way. Our lab is interested in learning how the combination of molecules (composition) and the way they are organized (structure) shapes our sensory perception of the food.</p>
@@ -738,7 +754,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- 2024 Aubrey DuBois
+ 2025 Jonas Ahonen
   </li>  
 </ul>
     </div>   
@@ -756,6 +772,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

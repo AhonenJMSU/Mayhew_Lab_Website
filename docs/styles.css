@@ -1,1 +1,17 @@
 /* css styles */
+.masonry-gallery {
+  column-count: 3;
+  column-gap: 1em;
+}
+
+.masonry-gallery img {
+  width: 100%;
+  margin-bottom: 1em;
+  border-radius: 6px;
+  transition: transform 0.2s ease;
+}
+
+.masonry-gallery img:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+}

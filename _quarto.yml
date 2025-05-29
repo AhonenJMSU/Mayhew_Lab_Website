@@ -19,7 +19,7 @@ website:
   page-footer:
     border: true
     left: 
-    - text: "2024 Aubrey DuBois"
+    - text: "2025 Jonas Ahonen"
     center: "Made with [Quarto](www.quarto.com)"
     right:
     - text: "License"
@@ -37,12 +37,14 @@ website:
         href: research/index.qmd
       - text: People
         href: people/index.qmd
-      - text: Courses
-        href: courses/index.qmd
-      - text: News
-        href: news/index.qmd
+      # - text: Courses
+      #   href: courses/index.qmd
+      - text: Outreach
+        href: outreach/index.qmd
       - text: Services        
         href: services/index.qmd
+      - text: News
+        href: news/index.qmd
       - text: Contact
         href: contact/index.qmd
     # right:
@@ -54,9 +56,10 @@ website:
     #     href: www.google.com
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: 
+      light: [flatly, light_theme.scss]
+      dark: [darkly, dark_theme.scss]
+    respect-user-color-scheme: true
     css: styles.css
     toc: true
     grid: 

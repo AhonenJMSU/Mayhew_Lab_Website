@@ -1,18 +1,21 @@
 ---
-title: ""
+title: "Contact"
 format: html
 ---
 <div style="text-align: center; font-size: 2em; font-weight: bold">
+<sensory@msu.edu>
+</div>
+<hr/>
+<div style="text-align: center; font-size: 1em;">
+
+<div style="text-align: center; font-size: 1.6em; font-weight: bold">
 Dr. Emily Mayhew
 </div>
-<hr />
 <div style="text-align: center; font-size: 1em;">
 
 | Assistant Professor and Facility Coordinator
-| 
 | Phone: 517-884-0046
 | Email: <mayhewem@msu.edu>
-|
 | MSU Trout Food Science and Human Nutrition Building
 | 469 Wilson Rd., East Lansing, MI 48824
 </div>

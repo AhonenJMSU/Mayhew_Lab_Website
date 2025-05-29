@@ -1,17 +1,12 @@
 General
   - color scheme (maybe 5-7 colors?)
-    - light mode:
-    - dark mode:
   - logos
-    - main logo - replace placeholder
-    - favicon - replace placeholder
+    - decide on main logo
   - navbar layout ok?
   - landing page layout ok?
-  - simple button/link animation?
   - official lab name? 
-    Mayhew Sensory Lab? Food Sensory Lab? MSU Sensory Lab? etc..
+      Mayhew Sensory Lab? Food Sensory Lab? MSU Sensory Lab? etc..
   - replace social/brand links with actual links to lab accounts
-  - identify why announcement is not popping up...
 
 Accessiblity
   - add alt text to all images and icons
@@ -19,30 +14,28 @@ Accessiblity
   - run site through accessibilitychecker.org
   
 Landing page
-  - Replace placeholder pic
-  - Do we want these paragraphs here? (pulled from your msu.edu page)
+  - Get new text for page
   
 People
-  - set sorting rules for each person type
-  - get all current and former personnel pages created
-    - each page needs: photo, relevant links, bio, education
+  - Get information from each person on list
+    - Add LinkedIn for each person
   
 Research
   - Decide layout
   - Add remaining journal articles
-  - add author affiliations and emails to each
+    - Add a 1/2 sentence description to each paper?
   - book chapters?
-  - projects section?
-    if we had pages for each project, they could link to the different articles, presentations, etc. associated with them
+  - projects section
+    - Page for each project?
   - presentations section?
-  - maybe auto link people to the articles/projects/etc they are associated with
-  
+
 Courses
   - decide layout
   - things to add:
       - syllabus
       - course materials
       - resources
+      - info about final project testing
       
 News
   - layout - default listing type?
@@ -52,22 +45,15 @@ News
     - upcoming outreach events
     - news articles, podcasts, etc.
     - newly published articles, etc.
-    - what else?
     
 Services
-  - layout? maybe similar to about/landing
-  - identify what to say here.
-  - add contact info?
-  
-404 Page
-  - make nicer
+  - Update information on this page
+  - Include info about FSC310 final project testing?
   
 Other potential pages to add:
   - Get Involved 
     - could provide info for prospective students
     - provide info for prospective research participants
-  - Contact
-    - contact form
-    - contact info
-    - ORRRR have contact info on landing page instead??
+    - hold info about outreach activities
+
   

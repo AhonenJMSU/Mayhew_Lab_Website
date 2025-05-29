@@ -5,34 +5,41 @@ website:
     content: "**New** - this is an announcement" 
     position: below-navbar
   page-layout: full
+lightbox: true
+format:
+  html: 
+    css: styles.css
 ---
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-
-
-
-![](img/RainbowTestingBooths.jpg)
-
-
-
-![](img/BlueberriesbyPassthrough.jpg)
-
-
-
-![](img/ScienceFair2023.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-6}
-
-
 
 Every food we eat is made up of a specific combination of molecules, organized in a specific way. Our lab is interested in learning how the combination of molecules (composition) and the way they are organized (structure) shapes our sensory perception of the food.
 
 We apply sensory methodology to study the appearance, smell, flavor, texture, and pleasurability of foods. We also use instrumental methods, including gas-chromatography/mass-spectrometry and texture analysis, to characterize the composition and structure of foods. Finally, we build models that can quantitatively describe the causal link between food composition and sensory properties.
 
 If we understand how the chemistry of a food dictates its sensory properties, we can strategically alter formulation or process to produce the desired sensory profile without having to go through multiple rounds of reformulation and sensory testing. We aim to apply this composition-to-sensory modeling approach to promote more nutritious and sustainable eating by improving the sensory properties of nutritious and sustainable foods. Early research projects include studying the relationship between apple volatile composition and flavor and investigating the use of volatile compounds to enhance sweetness as a sugar reduction strategy.
-:::
 
-:::
+<div class="masonry-gallery">
+![](img/BlueberriesbyPassthrough.jpg){group="gallery1"}
+![](img/RainbowTestingBooths.jpg){group="gallery1"}
+![](img/ScienceFair2023.jpg){group="gallery1"}
+![](img/gallery1/PXL_20230813_175628144.jpg){group="gallery1"}
+![](img/gallery1/PXL_20230813_175340826.jpg){group="gallery1"}
+![](img/gallery1/PXL_20230820_122052625.jpg){group="gallery1"}
+![](img/gallery1/PXL_20230820_122112232.MP.jpg){group="gallery1"}
+![](img/gallery1/PXL_20230915_134113621.jpg){group="gallery1"}
+![](img/gallery1/PXL_20230915_134155087.MP.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240112_205252325.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240207_211009028.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240325_181259401.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240403_231338073.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240403_231956994.MP.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240411_170540303.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240412_160955162.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240412_161010183.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240412_164014554.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240412_165655544.MP.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240412_185127663.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240412_185430513.jpg){group="gallery1"}
+![](img/gallery1/PXL_20240418_212340510.jpg){group="gallery1"}
+![](img/gallery1/image-20250411-125231-c4a502e8.jpeg){group="gallery1"}
+</div>
+

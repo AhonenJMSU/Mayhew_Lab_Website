@@ -15,37 +15,109 @@ title: "Research"
 #     image-placeholder: person-placeholder.png
 #     image-height: 10em
 ---
-## Publications
+## Current Research Projects
 
+::: {.grid}
+
+::: {.g-col-4}
+![](../img/PulseButterfly-modified.png)
+:::
+::: {.g-col-1}
+:::
+
+::: {.g-col-7}
+# Pulses
+
+We want to understand...
+:::
+
+:::
+
+::: {.grid}
+::: {.g-col-1}
+:::
+::: {.g-col-7}
+# Berries
+
+We want to understand...
+:::
+
+::: {.g-col-4}
+![](../img/PulseButterfly-modified.png)
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-4}
+![](../img/PulseButterfly-modified.png)
+:::
+::: {.g-col-1}
+:::
+
+::: {.g-col-7}
+# Olfaction
+
+We want to understand...
+:::
+
+:::
+
+## Publications
 <h4 style="text-align: center;"><b> For a complete list, find us on <a href="https://scholar.google.com/citations?hl=en&user=SuMyyQMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></b></h4>
 
 # 2025
 <div>
 <h4><b> Clustering method and stimulus presentation order shift sweet liking phenotype distributions</b></h4>
 <p> Robin M. Tucker, Sze-Yen Tan, Aubrey DuBois, <b>Emily J Mayhew</b></p>
-<p> <a href="https://www.sciencedirect.com/science/article/pii/S0950329325000849">Access the paper here.</a> </p>
+<p> <a href="https://www.sciencedirect.com/science/article/pii/S0950329325000849">Limited access download.</a> </p>
 </div>
 
 # 2024
 <div>
 <h4><b> Quantifying the sweetness intensity and impact of aroma in honey from four floral sources</b></h4>
 <p> Hannah Mulheron, Aubrey DuBois, <b>Emily J Mayhew</b></p>
-<p> <a href="https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.17461">Download the paper.</a> </p>
+<p> <a href="https://ift.onlinelibrary.wiley.com/doi/pdf/10.1111/1750-3841.17461">Open access download.</a> </p>
 </div>
+
 <div>
 <h4><b> Unpacking Consumer Preferences: Perceptions and Sustainability of Packaging for Orange Juice</b></h4>
 <p> Nomzamo N Dlamini, <b>Emily J Mayhew</b>, Alissa A Nolden </p>
-<p> <a href="https://www.mdpi.com/2071-1050/16/14/6202">Open access here.</a> </p>
+<p> <a href="https://scholarworks.umass.edu/server/api/core/bitstreams/acf73699-9b2e-46d5-b53d-e6ccbb8ee736/content">Open access download.</a> </p>
 </div>
 
+# 2023
+<div>
+<h4><b>Apple and banana fruits produce anteiso-and iso-branched-chain esters from newly synthesized precursors</b></h4>
+<p> Phillip Engelgau, Sumithra K Wendakoon, Aubrey DuBois, <b>Emily J Mayhew</b>, Randolph Beaudry </p>
+<p> <a href="https://www.biorxiv.org/content/10.1101/2023.10.26.564239v1.full.pdf">Open access download.</a> </p>
+</div>
 
-<!-- <div> -->
-<!-- <h1 style="font-family:Merriweather; font-size:2.8em">2025</h1> -->
-<!-- <h4><b> PAPER TITLE</b></h4> -->
-<!-- <p> Author list here </p> -->
-<!-- <p> description </p> -->
-<!-- </div> -->
+<div>
+<h4><b>A principal odor map unifies diverse tasks in olfactory perception</b></h4>
+<p> Brian K Lee, <b>Emily J Mayhew</b>, Benjamin Sanchez-Lengeling, Jennifer N Wei, Wesley W Qian, Kelsie A Little, Matthew Andres, Britney B Nguyen, Theresa Moloy, Jacob Yasonik, Jane K Parker, Richard C Gerkin, Joel D Mainland, Alexander B Wiltschko</p>
+<p> <a href="https://www.science.org/doi/full/10.1126/science.ade4401?spm=a2c6h.13046898.publish-article.3.2a1d6ffa0U3WC9&file=science.ade4401">Open access download.</a> </p>
+</div>
 
+<div>
+<h4><b>Market potential and value-added opportunities of cold-hardy berries and small fruits in the Intermountain West, USA</b></h4>
+<p> Sumedha Garg, Rachel Leisso, Sun-Hwa Kim, <b>Emily J Mayhew</b>, Mei Song, Bridgid Jarrett, Wan-Yuan Kuo</p>
+<p> <a href="https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.16426">Limited access download.</a> </p>
+</div>
+
+# 2022
+<div>
+<h4><b>A Principal Odor Map Unifies Diverse Tasks in Human Olfactory Perception</b></h4>
+<p> Brian K Lee, <b>Emily J Mayhew</b>, Benjamin Sanchez-Lengeling, Jennifer N Wei, Wesley W Qian, Kelsie Little, Matthew Andres, Britney B Nguyen, Theresa Moloy, Jane K Parker, Richard C Gerkin, Joel D Mainland, Alexander B Wiltschko</p>
+<p> <a href="https://www.biorxiv.org/content/biorxiv/early/2022/09/06/2022.09.01.504602.full.pdf">Open access download.</a> </p>
+</div>
+
+<div>
+<h4><b>Transport features predict if a molecule is odorous</b></h4>
+<p> Emily J Mayhew, Charles J Arayata, Richard C Gerkin, Brian K Lee, Jonathan M Magill, Lindsey L Snyder, Kelsie A Little, Chung Wen Yu, Joel D Mainland</p>
+<p> <a href="https://www.pnas.org/doi/full/10.1073/pnas.2116576119">Open access download.</a> </p>
+</div>
 
 
 
