@@ -39,8 +39,8 @@ website:
         href: people/index.qmd
       # - text: Courses
       #   href: courses/index.qmd
-      - text: Outreach
-        href: outreach/index.qmd
+      # - text: Outreach
+      #   href: outreach/index.qmd
       - text: Services        
         href: services/index.qmd
       - text: News

@@ -1,47 +1,61 @@
 ---
-title: "MSU Sensory Lab Services"
+title: "MSU Sensory Evaluation Center Services"
 ---
-We aim to make sensory and consumer science insights more accessible to local food producers. If you have a project in need of sensory or consumer testing, [please send us an e-mail with your inquiry.](../contact/index.qmd)
+:::{.grid}
+:::{.g-col-4}
+The MSU Sensory Evaluation Center is an active hub with a mission to support cutting-edge research, industry collaborations, entrepreneurship, teaching, and outreach.
 
-The MSU Sensory Laboratory is located on the first floor of the G. Malcolm Trout FSHN Building and is accessible from all other processing facilities in the department.  The Sensory Lab offers facilities for:
+The center is led by Assistant Professor Emily Mayhew with support from Laboratory Manager Hannah Mulheron. Located in the G.M. Trout FSHN Building in suite 100-102, the center is easily accessible to other research spaces and processing facilities. 
 
-*    Product sensory evaluation
-*    Sensory panel training
-*    Sample preparation and storage
-*    Food product development
-*    Nutrient analysis (using Genesis R and D)
-*    Nutrition facts labeling
+## Capabilities
+The Sensory Evaluation Center is fully equipped to conduct all types of sensory and consumer research, including descriptive analysis and rapid descriptive methods, discrimination testing, psychophysical testing, quantitative consumer testing, and qualitative consumer research. 
+:::
+:::{.g-col-8}
+##### 
+![](../img/RainbowTestingBooths.jpg)
+:::
+:::
 
+## Sensory and Consumer Research Service Center
+The center supports both grant- and industry-funded projects and operates a fee-for-service sensory and consumer research program. Approved rates for standard tests can be viewed [here](Insert a link to menu pdf of services to choose from).
+
+For Michigan-based food entrepreneurs, the lab also offers a low-cost, student-led sensory and consumer research program during the Fall semester. Prospective clients should contact the lab for more information on eligibility.
+
+## Research Activities
+The Sensory Evaluation Center supports research projects that span the range from basic research on human smell and flavor perception to applied projects that aim to improve the sensory quality of foods and crops. Recent collaborations include researchers in horticulture, plant sciences, chemical engineering, and neuroscience. More information can be found on [here](../research/index.qmd). New collaborations are welcome.
+
+::: {.grid}
+::: {.g-col-6}
+![](../img/sensory-lab-hops-study.jpg)
+:::
+::: {.g-col-6}
 ## Facilities
+The Sensory Evaluation Center includes a wet laboratory and preparation kitchen area, a sensory testing area, and a panelist training area. More information about these spaces follow.
 
-#### Testing Area
-The testing area allows for discriminative, descriptive, and consumer panel methodology and includes: 
+### Wet Lab and Kitchen for Sample Preparation
+The wet lab and kitchen area is a fully food-grade laboratory space used to prepare samples for sensory evaluation at scale. It is equipped with all standard kitchen appliances and cookware, including refrigerator, freezer, oven range, dishwasher, pots, pans, bowls, utensils, etc. In addition, the sample preparation area is used to prepare other food-grade stimuli and conduct basic instrumental measurements. It is equipped with lab benches, analytical balances, chemical glassware, micropipettes, Konica color reader, etc.
+:::
+:::
 
-*    Seven individual booths with sliding door pass-throughs equipped with touch screen computers and Formica countertops.
-*    Two banks of individually controlled fluorescent lights (cool white, red or green tubes).
-*    Positive air pressure. 
-*    Sensory Information Management System (SIMS 2000 for Windows) from Sensory Computer Systems.
+:::{.grid}
+:::{.g-col-6}
+### Sensory Testing Area
+The sensory testing area includes 7 tech-equipped sensory booths that can be used for descriptive, discrimination, and quantitative consumer test methodologies. Samples can be served via pass-through doors connecting each booth to the sample preparation lab space. Each booth has LED color strip lighting that can be controlled individually to customize the lighting. RedJade sensory software is used to build and deploy sensory surveys to booth computers for digital data collection. The testing area is designed to maintain positive air pressure.
 
-#### Training Area
-A training area suitable for profile or descriptive analysis panels is adjacent to the testing facilities and includes:
+### Panelist Training and Qualitative Research Area
+Adjacent to the testing area, there is a separate area for panelist training that includes a conference table with seating for up to 10 panelists and a dry erase board. This space can also be used for qualitative research methods such as conducting focus groups.
+:::
 
-*    Conference table seating for 10-12 panelists. 
-*    Dry erase board
+:::{.g-col-6}
+![](../img/testing-area.png)
+:::
+:::
 
-#### Preparation Area
-Adjacent to the testing area is a preparation laboratory, which allows efficient preparation and presentation of samples through the sliding pass-through doors. Equipment in the preparation area:
 
-*    Preparation benches
-*    Hand and dishwashing facilities
-*    Conventional range/oven
-*    Microwave ovens
-*    Freezer and refrigerator storage
-*    Preparation and serving utensils
-*    Storage for dry ingredients, glassware and trays
-*    Analytical balance, digital balancer
-*    Fisher Isotemp Lab oven
-*    Water activity meter (AquaLab)
-*    TA.XT2i Texture Analyzer
-*    Konica Color Reader
-*    Refractometer
-*    pH meter
+
+
+
+
+
+
+

@@ -10,9 +10,9 @@ about:
     - text: "{{< iconify fa:github >}}"
       href: https://github.com/AhonenJMSU
 ---
-## Biography
+## Research Interests
 
-Jonas is the president of the MSU Food Science Club and an undergraduate researcher interested in flavor chemistry and sensory science. 
+Jonas is the president of the MSU Food Science Club and an undergraduate researcher interested in sensory science and flavor chemistry. He is developing models to predict the olfactory perception of singular compounds at varying concentrations and mixtures of different chemical compounds.
 
 ## Education
 

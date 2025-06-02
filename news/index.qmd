@@ -2,16 +2,36 @@
 title: "Mayhew Lab in the News!"
 listing:
   contents: 
-  - path: "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2025/february/columns/science-forward-how-aroma-affects-honeys-sweetness"
-    image: https://www.ift.org/-/media/food-technology/column-images/2025/02/0225_r_scienceforward_hero_790x600.jpg?mw=2580&hash=CBC6BD833F7EA203B76FC42A0028FF81
-    title: "How Aroma Affects Honey’s Sweetness"
-    description: "News Article"
-    
   - path: "https://www.ift.org/news-and-publications/podcasts/omnivore/ep-54-honeys-aroma-and-sweetness"
     image: https://ftomnivore.blubrry.net/wp-content/uploads/powerpress/1022_PUB_Omnivore-Podcast_1500x1500.jpg
     title: "Omnivore EP 54: Honey’s Aroma and Sweetness, Can We Refine the Definition of UPFs?"
-    description: "Podcast Episode"
+    description: "February 17, 2025"
     
+  - path: "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2025/february/columns/science-forward-how-aroma-affects-honeys-sweetness"
+    image: https://www.ift.org/-/media/food-technology/column-images/2025/02/0225_r_scienceforward_hero_790x600.jpg?mw=2580&hash=CBC6BD833F7EA203B76FC42A0028FF81
+    title: "How Aroma Affects Honey’s Sweetness"
+    description: "February 5, 2025"
+    
+  - path: "https://www.science.org/content/podcast/reducing-calculus-trauma-and-teaching-ai-smell"
+    image: https://www.science.org/do/10.1126/science.adk6142/full/_20230901_pod_calculus_overlay-1737455522450.jpg
+    title: "Reducing calculus trauma, and teaching AI to smell"
+    description: "August 31, 2023"
+    
+  - path: "https://www.science.org/content/article/ai-rivals-the-human-nose-when-it-comes-to-naming-smells"
+    image: https://www.science.org/do/10.1126/science.adk5924/full/_20230831_nid_ai_smells-1693504804637.jpg
+    title: "AI rivals the human nose when it comes to naming smells"
+    description: "August 31, 2023"
+    
+  - path: "https://www.thedailybeast.com/a-google-startup-made-an-ai-that-describes-smells-better-than-humans/?ref=home"
+    image: https://www.thedailybeast.com/resizer/v2/7TZ6JKGCOBJ77PFRD72QRKBLM4.jpg?smart=true&auth=93ec4347fb93394cc0c70c38e0dec1dd99f09742ddda07cf4985bd8083e6967f&width=1600&height=900
+    title: "Why Google Wants You to Smell This Article with AI"
+    description: "August 31, 2023"
+    
+  - path: "https://monell.org/a-step-closer-to-digitizing-the-sense-of-smell-monell-center-osmo-model-describes-odors-better-than-human-panelists/"
+    image: https://monell.org/wp-content/uploads/2019/08/monell-logo.png
+    title: "AI rivals the human nose when it comes to naming smells"
+    description: "August 31, 2023"
+
   type: grid
-  grid-columns: 2
+  grid-columns: 3
 ---

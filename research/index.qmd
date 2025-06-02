@@ -15,57 +15,69 @@ title: "Research"
 #     image-placeholder: person-placeholder.png
 #     image-height: 10em
 ---
-## Current Research Projects
-
 ::: {.grid}
-
-::: {.g-col-4}
-![](../img/PulseButterfly-modified.png)
+::: {.g-col-5}
+![](../img/PulseButterfly.jpg)
 :::
-::: {.g-col-1}
-:::
-
 ::: {.g-col-7}
-# Pulses
-
+# Improving Pulse Flour Quality
 We want to understand...
 :::
-
 :::
 
 ::: {.grid}
-::: {.g-col-1}
-:::
 ::: {.g-col-7}
-# Berries
-
+# Using PGRs to Improve Berry Flavor
 We want to understand...
 :::
-
-::: {.g-col-4}
-![](../img/PulseButterfly-modified.png)
+::: {.g-col-5}
+![](../img/blueberriesontray.jpg)
 :::
-
 :::
 
 ::: {.grid}
-
-::: {.g-col-4}
-![](../img/PulseButterfly-modified.png)
+::: {.g-col-5}
+![](../img/strawberriesontowel.jpg)
 :::
-::: {.g-col-1}
-:::
-
 ::: {.g-col-7}
-# Olfaction
-
+# Optimizing Controlled Environment Conditions for Strawberry Quality
 We want to understand...
 :::
-
 :::
+
+::: {.grid}
+::: {.g-col-7}
+# Using PGRs to Increase Hop Aroma
+We want to understand...
+:::
+::: {.g-col-5}
+![](../img/hopsinbottles.jpg)
+:::
+:::
+
+::: {.grid}
+::: {.g-col-5}
+![](../img/aroma-taste-graph.png)
+:::
+::: {.g-col-7}
+# Characterizing Aroma-Taste Interactions
+We want to understand...
+:::
+:::
+
+::: {.grid}
+::: {.g-col-7}
+# Predicting Olfactory Perception
+We want to understand...
+:::
+::: {.g-col-5}
+![](../img/aroma-taste-graph.png)
+:::
+:::
+
 
 ## Publications
-<h4 style="text-align: center;"><b> For a complete list, find us on <a href="https://scholar.google.com/citations?hl=en&user=SuMyyQMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></b></h4>
+<h4 style="text-align: center;"><b> For a complete list, find us on <a href="https://scholar.google.com/citations?hl=en&user=SuMyyQMAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.</b></h4>
 
 # 2025
 <div>

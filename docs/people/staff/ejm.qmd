@@ -13,25 +13,39 @@ about:
     - text: "{{< iconify fa:github >}}"
       href: https://github.com/emayhew
 ---
-## Biography
 
-Emily Mayhew is a sensory scientist with an interest in measuring the modeling the relationship between chemistry and perception. She is currently an Assistant Professor in the Department of Food Science & Human Nutrition at Michigan State University. 
+## Education and Research Positions
 
-## Education
+Postdoctoral Fellow, Monell Chemical Senses Center, 2018-2021 
 
-Ph.D. Food Science, University of Illinois at Urbana-Champaign, 2017
+Senior Associate Scientist, SC Johnson & Son, Inc., 2017-2018 
 
-B.S. Chemistry, College of William & Mary, 2012
+Ph.D. Food Science, University of Illinois at Urbana-Champaign, 2017 
 
+B.S. Chemistry, College of William & Mary, 2012 
 
-## Experience
+## Appointment 
 
-Senior Associate Scientist, SC Johnson & Son, Inc., 2017-2018
+40% Research | 40% Extension | 15% Teaching | 5% Service 
 
-Postdoctoral Fellow, Monell Chemical Senses Center, 2018-2021
+## Research Interests 
 
+Every food we eat is made up of a specific combination of molecules, organized in a specific way. Our lab is interested in learning how the combination of molecules (composition) and the way they are organized (structure) shapes our sensory perception of the food. 
 
-## Instructional Activities
+We apply sensory methodology to study the appearance, smell, flavor, texture, and pleasurability of foods. We also use instrumental methods, including gas-chromatography/mass-spectrometry and texture analysis, to characterize the composition and structure of foods. Finally, we build models that can quantitatively describe the causal link between food composition and sensory properties. 
 
-*(Michigan State University)*
-FSC 310: Sensory Analysis and Consumer Research 
+If we understand how the chemistry of a food dictates its sensory properties, we can strategically alter formulation or process to produce the desired sensory profile without having to go through multiple rounds of reformulation and sensory testing. We aim to apply this composition-to-sensory modeling approach to promote more nutritious and sustainable eating by improving the sensory properties of nutritious and sustainable foods.  
+
+Active areas of research in the lab include predicting olfactory perception, characterizing taste/smell interactions, and improving the sensory quality of berries, dry beans, and hops. More information about our research projects can be found [here](../../research/index.qmd). 
+
+## Extension & Outreach Focus 
+
+We aim to make sensory and consumer science insights more accessible to local food producers. The MSU Sensory Lab operates a fee-for-service center with fixed rate testing options, as well as low-cost options for small businesses. More information can be found at URL. 
+
+## Instructional Activities 
+
+FSC 310: Sensory Analysis and Consumer Research (3 credit; Fall semester) 
+
+## Publications 
+
+Please visit my [Google Scholar bibliography](https://scholar.google.com/citations?user=SuMyyQMAAAAJ&hl=en&oi=ao) for a complete list of publications. 
